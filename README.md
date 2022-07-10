@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning how to build things!
 - 💞️ I’m looking to collaborate on any interesting projects
 - 📫 How to reach me dpcombs18@gmail.com
-- 
 
 <!---
 HnyCmbs90/HnyCmbs90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
